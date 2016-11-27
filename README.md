@@ -1,2 +1,2 @@
 # weibo
-##following the guidance of http://www.maiziedu.com/course/553/
+#######following the tutorial on http://www.maiziedu.com/course/553/
